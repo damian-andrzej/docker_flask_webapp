@@ -35,7 +35,7 @@ sudo dnf install python3 | sudo apt get install python3
 
  - requirements.txt
 
- file placed into app directory that contains all library that need to be included to properly execute code<br>Actually file contains only one line<br>
+ file placed into app directory and contains all libraries that need to be included to properly execute code<br>Actually file contains only one line<br>
  `flask`
 
 ## Configuration
