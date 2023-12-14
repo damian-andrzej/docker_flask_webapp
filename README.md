@@ -1,4 +1,4 @@
-# Python flask app dockerization
+# Python flask app dockerization  - work in progress
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
